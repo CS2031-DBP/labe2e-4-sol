@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.e2e.e2e.review.ReviewControllerSecurityTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.562 s -- in org.e2e.e2e.review.ReviewControllerSecurityTest

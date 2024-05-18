@@ -1,0 +1,6 @@
+org/e2e/e2e/driver/DriverControllerSecurityTest.class
+org/e2e/e2e/passenger/PassengerControllerSecurityTest.class
+org/e2e/e2e/utils/Reader.class
+org/e2e/e2e/ride/RideControllerSecurityTest.class
+org/e2e/e2e/review/ReviewControllerSecurityTest.class
+org/e2e/e2e/E2eApplicationTests.class

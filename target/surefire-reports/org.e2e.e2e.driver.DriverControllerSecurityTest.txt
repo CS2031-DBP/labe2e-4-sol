@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.e2e.e2e.driver.DriverControllerSecurityTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.485 s -- in org.e2e.e2e.driver.DriverControllerSecurityTest
